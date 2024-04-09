@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qiJ60YVgk60Er2f8g7RKif4OEJqwRMzyR3L/msT60fg=",
+  "Source": "NfcApi",
+  "BasePath": "_content/NfcApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

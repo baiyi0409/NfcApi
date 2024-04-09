@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bn/oewWVI/kiORE1+mVPn+NGz03DlIrvLwKG9/CXGDY=",
+  "Source": "NfcApi",
+  "BasePath": "_content/NfcApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
